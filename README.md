@@ -1,7 +1,7 @@
 # Interprete-De-Bolso
 Um projeto que visa ajudar surdos e se comunicarem
 
-Tutorial de instalação:
+Tutorial de instalação: 
 
 - Primeiro - Instale o Visual Studio Code e coloque as pastas do repositoria nele
 - Segundo - Instale o NodeJs
