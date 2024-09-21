@@ -9,6 +9,7 @@ Tutorial de instalação:
 
 Dentro do Visual Studio Code com o NodeJS instalado, dirija-se ao Terminal do Visual Studio Code e digite os seguintes códigos:
 
+- npm install ( Para o funcionamento do Aplicativo )
 - npm install react-native-video ( Para o funcionamento de videos )
 - expo install expo-av ( Para o funcionamento de videos no Expo Go )
 - expo install @expo/vector-icons ( Para o funcionamento do FontAwesome )
