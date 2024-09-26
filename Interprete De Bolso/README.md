@@ -9,4 +9,7 @@ Tutorial de instalação:
 
 Dentro do Visual Studio Code com o NodeJS instalado, dirija-se ao Terminal do Visual Studio Code e digite os seguintes códigos:
 
-- npm install expo-router
+- npm install router
+- npm install react react-dom
+- npm install -g react-native-cli
+- npm install typescript --save-dev
