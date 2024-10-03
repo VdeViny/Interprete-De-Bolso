@@ -1,0 +1,16 @@
+   junca: {
+      display: 'flex',
+      flexDirection: 'row',
+      gap: 10,
+    }
+
+
+<View style={styles.junca}>
+      <TouchableOpacity onPress={playVideo} style={styles.botao}>
+        <Text style={{ color: 'white' }}>Interpretar</Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity onPress={limpar} style={styles.botaolixo}>
+      <FontAwesome name={'trash'} size={13} color="white" />
+      </TouchableOpacity>
+      </View>
